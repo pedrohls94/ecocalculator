@@ -1,0 +1,22 @@
+{
+  "name": "ecocalculator",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrohls94/ecocalculator.git"
+  },
+  "author": "PepsysSoul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrohls94/ecocalculator/issues"
+  },
+  "homepage": "https://github.com/pedrohls94/ecocalculator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
